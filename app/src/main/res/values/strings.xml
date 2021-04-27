@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab07</string>
+
+    <string-array name="Asortyment">
+
+        <item> Pomidory </item>
+        <item> Ziemniaki </item>
+        <item> Marchew </item>
+        <item> Buraki </item>
+        <item> Pietruszka </item>
+        <item> Cebula </item>
+        <item> Czosnek </item>
+
+    </string-array>
+
+</resources>
